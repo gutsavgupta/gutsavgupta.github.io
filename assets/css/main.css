@@ -1646,7 +1646,7 @@
 /* Nav */
 
 	#nav {
-		background-color: #23188F;
+		background-color: #fff;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -1654,10 +1654,13 @@
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
+		border-bottom-style: solid;
+		border-bottom-width: 0.1em;
+		border-bottom-color: #EBEBEB; 
 	}
 
 		#nav ul {
-			margin-bottom: 0;
+			margin-bottom: 1em;
 		}
 
 		#nav li {
@@ -1667,7 +1670,7 @@
 		#nav a {
 			position: relative;
 			display: block;
-			color: #fff;
+			color: #000;
 			text-decoration: none;
 			outline: 0;
 		}
@@ -1696,6 +1699,7 @@
 
 		#top .image img {
 			border-radius: 50%;
+			width: 70%;
 		}
 
 	#top p a {
@@ -1845,7 +1849,7 @@
 				margin: 0.2em;
 				font-weight: 600;
 				border-radius: 8px;
-				color: #fff;
+				color: #000;
 			}
 
 				#nav a:hover {
@@ -1864,7 +1868,7 @@
 
 				#top .image {
 					width: 20em;
-					height: 20em;
+					height: 16em;
 					margin: 0;
 				}
 
