@@ -1660,7 +1660,8 @@
 	}
 
 		#nav ul {
-			margin-bottom: 1em;
+			margin-top: 0.5em;
+			margin-bottom: 0em;
 		}
 
 		#nav li {
@@ -1676,7 +1677,7 @@
 		}
 
 			#nav a:hover {
-				color: #fff !important;
+				color: #43B3E0 !important;
 			}
 
 			#nav a.active:before {
