@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700|Oswald);@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);/*!
+@import url(https://fonts.googleapis.com/css?family=Calibri:400,700|Lato:400,700|Oswald);@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);/*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -4725,7 +4725,7 @@ button.close {
 }
 
 body {
-    background-color: #e6e6e6;
+    background-color: #ece7e1;
     background-image: none
 }
 
@@ -4887,7 +4887,7 @@ body.white {
 }
 
 .h5,h5 {
-    font-family: Calibri,Lato,Helvetica,Arial,sans-serif;
+    font-family: Calibri,"open,Lato,Helvetica,Arial,sans-serif;
     font-weight: 700
 }
 
