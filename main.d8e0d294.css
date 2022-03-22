@@ -4725,7 +4725,7 @@ button.close {
 }
 
 body {
-    background-color: #ece7e1;
+    background-color: #fff;
     background-image: none
 }
 
@@ -4782,7 +4782,8 @@ body.white {
 
 .card .h2,.card h2 {
     margin-top: 0;
-    margin-bottom: 40px
+    margin-bottom: 40px;
+    border-bottom: 1px solid rgba(0,0,0,.125)
 }
 
 .card .card-block {
